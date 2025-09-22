@@ -1,3 +1,10 @@
+/* Button container for About section links */
+.about-btn-container {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
 * {
   margin: 0;
   padding: 0;
@@ -452,3 +459,9 @@ p {
   text-decoration: underline;
   word-break: break-all;
 }
+style="
+          margin-top: 1rem;
+          display: flex;
+          gap: 1rem;
+          justify-content: center;
+        "
