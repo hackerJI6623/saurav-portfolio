@@ -423,10 +423,10 @@ p {
     max-width: 100%;
   }
   .profile-img {
-    width: 70px;
-    height: 70px;
-    border-radius: 35px;
-    margin: 0 auto 1rem auto;
+    width: 90px;
+    height: 90px;
+    border-radius: 45px;
+    margin: 0 auto 1.2rem auto;
   }
 }
 
